@@ -4,7 +4,7 @@
 
 MVC is an architectural design pattern that separates an application into three components: Model, View, Controller. My presentation details each design component, gives examples, and explains why MVC is so useful.
 
-**Link to project:**
+**Link to project:** [Presentation](https://github.com/nicoledicochea/mvc-presentation/blob/main/presentation.md)
 
 ## Lessons Learned:
 
