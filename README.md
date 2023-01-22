@@ -8,7 +8,7 @@ MVC is an architectural design pattern that separates an application into three 
 
 ## Lessons Learned:
 
-MVC is an incredible organizational tool. It makes it easier to traverse a new code base, something that can always be a little tricky! The clear separation of concerns accomadates not only the original writer of the code, but all who may need to make changes. 
+MVC is an incredible organizational tool. It makes it easier to traverse a new code base, something that can always be a little tricky! The clear separation of concerns accomadates not only the original writer of the code, but all developers on a team. 
 
 Need to make a change to the User model of the application, look in the Models folder. Need to change the appearance of a user's profile page, check out the Views folder. Need to add new CRUD features, then head to the Controllers folder.
 
