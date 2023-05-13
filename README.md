@@ -25,7 +25,7 @@ Check out these amazing articles for more information on the topic!
  - [Mongoose Guide: Schemas](https://mongoosejs.com/docs/guide.html)
  
 ## Examples:
- - I am using the MVC framework to organize my WIP app, [LumiLab](https://github.com/nicoledicochea/lumi-lab).
+ - I am using the MVC framework to organize my app, [LumiLab](https://github.com/nicoledicochea/lumi-lab).
  
  
 
